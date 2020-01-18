@@ -1,2 +1,2 @@
 # DouYu
-practice swift
+practice swift with douyu app
